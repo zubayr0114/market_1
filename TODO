@@ -1,0 +1,27 @@
+django mptt ++
+django resized
+ckeditor
+
+
+
+.env
+make
+gitignore
+
+TASK
+1. adminkada 10tadan product chiqarish
+2. product nomi, nechtaligi, birinchi rasmi, kategoriyasi ++
+3. product idsi, nomi boyicha izlash ++
+
+4. adminkaga jazzminga otkazish
+5. login, register (registerdan keyin pochtaga tasdiqlash kodini yuborish)[celery]
+6. pagination
+7. like
+8. NEW degan yorliq (qoshilganiga 5kun bolsa)
+9. import export (xlsx)
+
+10. specifications product list 2tasi chiqarish
+11. user html ko`chirish
+12 userning tel nomeriga validator qoshishiq ( madelsda)
+13. adminkada product listda (eng oxirida created_at ni 31.01.2024 formatda chiqarish)
+14. yangi product qoshilganda barcha userlarni pochtasiga tovar nomi va linkini yuborish kerak
